@@ -1,0 +1,1796 @@
+fileFormatVersion: 2
+guid: cb46dc4103ccf224fa4b2fea51aedb51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2959752043698517301
+    second: character_GoldSword 1_0
+  - first:
+      213: -8750787970202303635
+    second: character_GoldSword 1_1
+  - first:
+      213: 525629690318362156
+    second: character_GoldSword 1_2
+  - first:
+      213: 4522344004438126302
+    second: character_GoldSword 1_3
+  - first:
+      213: 598306316710304462
+    second: character_GoldSword 1_4
+  - first:
+      213: -3333836909856845011
+    second: character_GoldSword 1_5
+  - first:
+      213: 6967056460902564003
+    second: character_GoldSword 1_6
+  - first:
+      213: 7377499582252993791
+    second: character_GoldSword 1_7
+  - first:
+      213: -101968876047578746
+    second: character_GoldSword 1_8
+  - first:
+      213: -1076568466608382759
+    second: character_GoldSword 1_9
+  - first:
+      213: -4775972507307181823
+    second: character_GoldSword 1_10
+  - first:
+      213: -6259797198071247805
+    second: character_GoldSword 1_11
+  - first:
+      213: -6832756678781035104
+    second: character_GoldSword 1_12
+  - first:
+      213: -2061162764261563564
+    second: character_GoldSword 1_13
+  - first:
+      213: 2050961200341766466
+    second: character_GoldSword 1_14
+  - first:
+      213: -1113078853793627903
+    second: character_GoldSword 1_15
+  - first:
+      213: 8915093337712433714
+    second: character_GoldSword 1_16
+  - first:
+      213: 2899975107395831924
+    second: character_GoldSword 1_17
+  - first:
+      213: -7309078567274731634
+    second: character_GoldSword 1_18
+  - first:
+      213: -5478300428115873626
+    second: character_GoldSword 1_19
+  - first:
+      213: 5238077874557119476
+    second: character_GoldSword 1_20
+  - first:
+      213: 5791031694372155420
+    second: character_GoldSword 1_21
+  - first:
+      213: 6775485815912782602
+    second: character_GoldSword 1_22
+  - first:
+      213: 4330631576002347876
+    second: character_GoldSword 1_23
+  - first:
+      213: 5485280079312943847
+    second: character_GoldSword 1_24
+  - first:
+      213: 1267794451349394045
+    second: character_GoldSword 1_25
+  - first:
+      213: 2868230553027104401
+    second: character_GoldSword 1_26
+  - first:
+      213: -5975659011737932656
+    second: character_GoldSword 1_27
+  - first:
+      213: -6774879658524279125
+    second: character_GoldSword 1_28
+  - first:
+      213: -7666309926557684306
+    second: character_GoldSword 1_29
+  - first:
+      213: -7009873049630523527
+    second: character_GoldSword 1_30
+  - first:
+      213: 6435511755357450362
+    second: character_GoldSword 1_31
+  - first:
+      213: 2059551316936032036
+    second: character_GoldSword 1_32
+  - first:
+      213: -4093999140547293895
+    second: character_GoldSword 1_33
+  - first:
+      213: -3298581917591864528
+    second: character_GoldSword 1_34
+  - first:
+      213: 7416478904743001647
+    second: character_GoldSword 1_35
+  - first:
+      213: -8283493764770500611
+    second: character_GoldSword 1_36
+  - first:
+      213: 1047322384891145257
+    second: character_GoldSword 1_37
+  - first:
+      213: -3331307193862831786
+    second: character_GoldSword 1_38
+  - first:
+      213: -8818348019454729227
+    second: character_GoldSword 1_39
+  - first:
+      213: 8707724964117203619
+    second: character_GoldSword 1_40
+  - first:
+      213: 6711097203075016987
+    second: character_GoldSword 1_41
+  - first:
+      213: -8015611495379319322
+    second: character_GoldSword 1_42
+  - first:
+      213: 1552904086913007650
+    second: character_GoldSword 1_43
+  - first:
+      213: 2048940490775200745
+    second: character_GoldSword 1_44
+  - first:
+      213: 233719694885793027
+    second: character_GoldSword 1_45
+  - first:
+      213: -7728657926412636221
+    second: character_GoldSword 1_46
+  - first:
+      213: -5938942405146503405
+    second: character_GoldSword 1_47
+  - first:
+      213: 6926389316180694595
+    second: character_GoldSword 1_48
+  - first:
+      213: 6097850995750845764
+    second: character_GoldSword 1_49
+  - first:
+      213: -625141702212422538
+    second: character_GoldSword 1_50
+  - first:
+      213: -8046355659755624562
+    second: character_GoldSword 1_51
+  - first:
+      213: -7952435676812668479
+    second: character_GoldSword 1_52
+  - first:
+      213: 6961921276228539644
+    second: character_GoldSword 1_53
+  - first:
+      213: -472973058985594172
+    second: character_GoldSword 1_54
+  - first:
+      213: -5803909815138826488
+    second: character_GoldSword 1_55
+  - first:
+      213: -5764690225940585099
+    second: character_GoldSword 1_56
+  - first:
+      213: 8711237859659759910
+    second: character_GoldSword 1_57
+  - first:
+      213: -4267001925356169007
+    second: character_GoldSword 1_58
+  - first:
+      213: 7273449777342079920
+    second: character_GoldSword 1_59
+  - first:
+      213: 6968488753569484786
+    second: character_GoldSword 1_60
+  - first:
+      213: -1348281180736375477
+    second: character_GoldSword 1_61
+  - first:
+      213: 4154686297109057957
+    second: character_GoldSword 1_62
+  - first:
+      213: 5034176045682973508
+    second: character_GoldSword 1_63
+  - first:
+      213: 7934936787226133549
+    second: character_GoldSword 1_64
+  - first:
+      213: 5852443605329739661
+    second: character_GoldSword 1_65
+  - first:
+      213: -7012614770084173173
+    second: character_GoldSword 1_66
+  - first:
+      213: 9129252134056789295
+    second: character_GoldSword 1_67
+  - first:
+      213: -9213681427657705124
+    second: character_GoldSword 1_68
+  - first:
+      213: -7840085068907729389
+    second: character_GoldSword 1_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_GoldSword 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52563bff4fd29844a4b6935ee1f2166
+      internalID: 2959752043698517301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 228
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43eaac87a148b345b4a8889c3da63b0
+      internalID: -8750787970202303635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 228
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0786c2de6df1b324597c7997077aced9
+      internalID: 525629690318362156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 228
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8244732d5d6f3e045bb407c9391ea976
+      internalID: 4522344004438126302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 228
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2d338642c735544bea2e049f8fb2a1
+      internalID: 598306316710304462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 228
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688b014997df4c04799de3f1be13fa1d
+      internalID: -3333836909856845011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 228
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fd5652e65084b458f0f499fab03a6f
+      internalID: 6967056460902564003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 228
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e0f444af9db142ac0ebf7bf349dac
+      internalID: 7377499582252993791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 196
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d594ea8eb2710347b7311d2b61d0698
+      internalID: -101968876047578746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 196
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f386da117339f154e8e768860e9acebc
+      internalID: -1076568466608382759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 196
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169ccd7417b5883499b8097ce23b5250
+      internalID: -4775972507307181823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 196
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95df6a4c98b8104ebfd439fefbe679e
+      internalID: -6259797198071247805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 196
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c718383174ba4495982c43d44121d
+      internalID: -6832756678781035104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 196
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e32f9cafb3dbe4e841e89261eed3f0
+      internalID: -2061162764261563564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 196
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8071e3dde879745a5507184c8bd10f
+      internalID: 2050961200341766466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 196
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59def34ca2813d746838dd64d2254d31
+      internalID: -1113078853793627903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 196
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d4bdea79e6d4b468d0638c601e4378
+      internalID: 8915093337712433714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 196
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50002faf6a0464b46a8b1772d1c1b111
+      internalID: 2899975107395831924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 196
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e27283ad100f4bb1dcdc57d38a686
+      internalID: -7309078567274731634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1ea62ea6767354986da82601c102f7
+      internalID: -5478300428115873626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 164
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084413b775023004aa9041907cdb03c7
+      internalID: 5238077874557119476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 164
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d738489827c47064888d8cfdf8382959
+      internalID: 5791031694372155420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 164
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db49f781f7b7394aaf104092bf41cf3
+      internalID: 6775485815912782602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 164
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d36628f864174487f6eccea2c8fe4
+      internalID: 4330631576002347876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 164
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfaf5d7387432545a90ec1ce80b0fc7
+      internalID: 5485280079312943847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 164
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c231db5de2f69144981fa400351d758
+      internalID: 1267794451349394045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea400c8b6f631b47a45e2ebecf1f655
+      internalID: 2868230553027104401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 152
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a090a07bb70f041baba00a3bf55846
+      internalID: -5975659011737932656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 152
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b762ec187f3d14ebc8e849cc5d9cc6
+      internalID: -6774879658524279125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca59d7c21ae5e7488aa9540b629f8f7
+      internalID: -7666309926557684306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 132
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a4cb8b53964534a8ceb03c166e69f7
+      internalID: -7009873049630523527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 132
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c7018f5e081ed408c56f727db43e37
+      internalID: 6435511755357450362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 132
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49fea611a957a54fb942ae5b02b8669
+      internalID: 2059551316936032036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 132
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74cc65546048748b7733b9232d138b
+      internalID: -4093999140547293895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 132
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57091aa3d3996439e27fe4dee06a6c
+      internalID: -3298581917591864528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 132
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d16351149609645b0c7846a341499e
+      internalID: 7416478904743001647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd1d9cdf5dd614689f0e02959e3b30
+      internalID: -8283493764770500611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 132
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4178061ecb73b43a5ab3eea00e1e24
+      internalID: 1047322384891145257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 132
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb5085b59c8d349a0a93b29ce1a827
+      internalID: -3331307193862831786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 132
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9542217f004ff54488bd310af51a60b5
+      internalID: -8818348019454729227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 129
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd6141cc3fef7e4a82e0ff7e30201c1
+      internalID: 8707724964117203619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a73eaf8381694999fffcf3fe0958a
+      internalID: 6711097203075016987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 93
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff65cb6afef08c4487f1821e5ac4691
+      internalID: -8015611495379319322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 101
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873c61767b4f49498df0b7aca831b6c
+      internalID: 1552904086913007650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 68
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ebb4459f42934db6eba1fc8f054f7
+      internalID: 2048940490775200745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 51
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52801c26c8a5caf40829b6f68138d592
+      internalID: 233719694885793027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 111
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c25418dcb7fd4cb31cbd41bbb4ba8
+      internalID: -7728657926412636221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 69
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59214bda4258f44080f6cc1418a16ad
+      internalID: -5938942405146503405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c049c61dfce35348881d3ee1d253595
+      internalID: 6926389316180694595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968a2ec74396b5c43b7360a104a51fa1
+      internalID: 6097850995750845764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 71
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98826d7c0d8a64ca272075d672cf85
+      internalID: -625141702212422538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 58
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c48ad09fa0d2fd439f79453a1747c9e
+      internalID: -8046355659755624562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 53
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a68b729ea2f334b8cb859f51a983e0
+      internalID: -7952435676812668479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 31
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad56dca3e31dda645889928ff20ed487
+      internalID: 6961921276228539644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99438742db497d1468e78621d711c184
+      internalID: -472973058985594172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_55
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796475ebb963d8c48b0bf749ceb8c520
+      internalID: -5803909815138826488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51f411e284c3c40a17ea253273c4cf
+      internalID: -5764690225940585099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 45
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286bc1c3b85e06c4fb980fd2c56b2124
+      internalID: 8711237859659759910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_58
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b522127ae83c484296a1a3a97ce6103
+      internalID: -4267001925356169007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_59
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 27
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9171b5959e4be64583c364956fc3fce
+      internalID: 7273449777342079920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_60
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769415af556ee9545beb3becef723751
+      internalID: 6968488753569484786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_61
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 32
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb4b2c2b17946b479353784af330cca
+      internalID: -1348281180736375477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e532488722f15d46bb6d592ad207d8a
+      internalID: 4154686297109057957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_63
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1041b31d7b612f4aa284c794e531487
+      internalID: 5034176045682973508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_64
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 26
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130d8e53b4b89e949a7024307368f0d8
+      internalID: 7934936787226133549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 4
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc43dae2eea035459a4dd3eccd08cab
+      internalID: 5852443605329739661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd838b15bc557e47879e4ae1f859758
+      internalID: -7012614770084173173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_67
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444207bd972b5594abd382733302803f
+      internalID: 9129252134056789295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_68
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cc6cdb2b38a41499ea1030807dc06a
+      internalID: -9213681427657705124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_GoldSword 1_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bff7f786d7b1e42931ff19551b15ed
+      internalID: -7840085068907729389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
