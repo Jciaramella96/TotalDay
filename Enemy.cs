@@ -66,7 +66,7 @@ public class Enemy : MonoBehaviour
             }
         }
     }
-    private void DeathEffect()
+    public void DeathEffect()
     {
         if(deathEffect != null)
         {

@@ -47,6 +47,7 @@ public class Log : Enemy
         } else if(Vector3.Distance(target.position, transform.position) > chaseRadius)
         {
             anim.SetBool("WakeUp", false);
+
         }
     }
     //long way of doing anim for enemy
@@ -61,6 +62,8 @@ public class Log : Enemy
     {
         //short way of doing anim for enemy
         direction = direction.normalized;
+        direction.x = Mathf.Round(direction.x); //rounds the change value so we dont decimals for movement 
+        direction.y = Mathf.Round(direction.y);// and donthave two hitboxes active at once
         anim.SetFloat("MoveX", direction.x);
         anim.SetFloat("MoveY", direction.y);
         //long way of doing anim for enemy
