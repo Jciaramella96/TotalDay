@@ -30,7 +30,7 @@ public class MeleeEnemy : Log
                 changeAnim(temp - transform.position);
                 myRigidbody.MovePosition(temp);
                 ChangeState(EnemyState.walk);
-
+                anim.SetBool("WakeUp", true);
             }
         }
         else if ((Vector3.Distance(target.position, transform.position) <= chaseRadius   // player position, logs position 
